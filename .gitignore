@@ -1,0 +1,14 @@
+# Python кэш
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
